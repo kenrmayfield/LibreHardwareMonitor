@@ -1,7 +1,7 @@
 # LibreHardwareMonitor
 [![GitHub license](https://img.shields.io/github/license/LibreHardwareMonitor/LibreHardwareMonitor)](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/blob/master/LICENSE) [![Nuget](https://img.shields.io/nuget/v/LibreHardwareMonitorLib)](https://www.nuget.org/packages/LibreHardwareMonitorLib/) [![Nuget (with prereleases)](https://img.shields.io/nuget/vpre/LibreHardwareMonitorLib?label=nuget-pre)](https://www.nuget.org/packages/LibreHardwareMonitorLib/) [![Nuget](https://img.shields.io/nuget/dt/LibreHardwareMonitorLib?label=nuget-downloads)](https://www.nuget.org/packages/LibreHardwareMonitorLib/)
 
-Libre Hardware Monitor, a fork of Open Hardware Monitor, is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. 
+Libre Hardware Monitor for Windows is Free Software that can Monitor the Temperature Sensors, Fan Speeds, Voltages, Load and Clock Speeds of your Computer. 
 
 LibreHardwareMonitor to Interface with Windows and Zabbix: https://www.zabbix.com/forum/zabbix-cookbook/53410-openhardwaremonitor-wmi-sensor-discovery-collection#post459052:~:text=Pre%2Dreq%3A%20Install%20the%20Zabbix_Agent2%20client%20on%20your%20windows%20PC.
 

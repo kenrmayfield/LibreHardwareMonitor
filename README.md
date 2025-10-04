@@ -3,6 +3,8 @@
 
 Libre Hardware Monitor, a fork of Open Hardware Monitor, is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer. 
 
+LibreHardwareMonitor to Interface with Windows and Zabbix: https://www.zabbix.com/forum/zabbix-cookbook/53410-openhardwaremonitor-wmi-sensor-discovery-collection#post459052:~:text=Pre%2Dreq%3A%20Install%20the%20Zabbix_Agent2%20client%20on%20your%20windows%20PC.
+
 ## What's included?
 | Name| .NET | Build Status |
 | --- | --- | --- | 
